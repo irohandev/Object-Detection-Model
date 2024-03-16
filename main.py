@@ -1,7 +1,6 @@
 import cv2
 from random import randint
 
-
 dnn = cv2.dnn.readNet('yolov4-tiny.weights', 'yolov4-tiny.cfg')
 model = cv2.dnn_DetectionModel(dnn)
 model.setInputParams(size=(416, 416), scale=1/255, swapRB=True)
