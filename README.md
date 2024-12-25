@@ -18,12 +18,12 @@ This repository contains a robust object detection model designed to identify ob
 
 ---
 
-## ▶️ **How to Run the File?**
+## **How to Run the File?**
 
 ### 🖥️ **Steps to Execute**
 1. Clone the repository to your local machine.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/irohandev/Object-Detection-Model
    cd object-detection-model
    ```
 2. Run the `main.py` file:
