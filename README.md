@@ -21,20 +21,8 @@ This repository contains a robust object detection model designed to identify ob
 ## **How to Run the File?**
 
 ### 🖥️ **Steps to Execute**
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/irohandev/Object-Detection-Model
-   cd object-detection-model
-   ```
-2. Run the `main.py` file:
+1. Run the `main.py` file:
    ```bash
    python main.py
    ```
-3. Allow access to your device's camera when prompted. The model will start detecting objects in your frame!
-
----
-
-## 🎯 **Future Enhancements**
-- Add support for pre-trained YOLO models.
-- Include object tracking capabilities.
-- Integrate with mobile cameras for enhanced flexibility.
+2. Allow access to your device's camera when prompted. The model will start detecting objects in your frame!
